@@ -21,5 +21,7 @@ Affiche les informations inscrites par l'utilisateur dans une interface simple.
 
 ## Démonstration
 
+https://github.com/user-attachments/assets/02547bef-523c-4392-bc7d-13562dff1c33
+
 
 
